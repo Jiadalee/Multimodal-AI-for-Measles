@@ -1,0 +1,2 @@
+recall_at_1,recall_at_5,recall_at_10,cka_before,cka_after,final_infonce_loss,n_pairs,shared_dim,note
+0.985,1.0,1.0,0.9548,0.8589,0.0866,200,128,Synthetic paired data — real metrics require matched genome+image per patient

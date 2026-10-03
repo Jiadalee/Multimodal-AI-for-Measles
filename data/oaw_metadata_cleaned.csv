@@ -1,0 +1,117 @@
+TAXON,IS_OAW,IS_SUBTREE,N450_MATCHES_WGS,N450_EXISTS,WGS_EXISTS,WHO_NAME,N450_GENBANK_ACCESSION,WGS_GENBANK_ACCESSION,BIOSAMPLE,COUNTRY,EPI_WEEK,YEAR,CASE_NUMBER,FLIGHT,FLIGHTS_WITH_MULTIPLE_WGS,BARRACK_BAY_MULTIPLE,RASH_ONSET,BASE,CLUSTER,FAMILY_GROUP,SUBCLUSTER,BASE_FACTOR,IMPORT,RASH_ONSET_DT,RASH_ONSET_DAYOFYEAR,RASH_ONSET_WEEK,IS_SUBTREE_ENC,IS_INTERNATIONAL,IS_US_ACQUIRED,BASE_ENC,CLUSTER_ENC,SUBCLUSTER_ENC,FLIGHT_ENC,SHARED_BARRACK_A,SHARED_BARRACK_B,SHARED_BAY_C,IS_LINKED
+MVs_Virginia.USA_36.21_3,True,True,True,True,True,MVs/Virginia.USA/36.21/3,OK493269,OP314484,SAMN30498164,USA,36,2021,47.0,V,,,2021 Sep 08 12:00:00 AM,A,2.0,,B,1.0,International Importation,2021-09-08,251.0,36,1,1.0,0.0,0,2,1,19,0.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_11,True,True,True,True,True,MVs/Wisconsin.USA/39.21/11,OK509179,OP314513,SAMN30498194,USA,39,2021,19.0,X,,,2021 Sep 27 12:00:00 AM,B,1.0,,A,1.0,US-Acquired,2021-09-27,270.0,39,1,0.0,1.0,1,1,0,21,0.0,0.0,0.0,1
+MVs_Wisconsin.USA_37.21,True,True,True,True,True,MVs/Wisconsin.USA/37.21,OK326895,OP314498,SAMN30498178,USA,37,2021,5.0,E,1.0,Barrack A,2021 Sep 16 12:00:00 AM,B,1.0,,C,1.0,International Importation,2021-09-16,259.0,37,1,1.0,0.0,1,1,2,3,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_37.21_3,True,True,True,True,True,MVs/Wisconsin.USA/37.21/3,OK326897,OP314500,SAMN30498180,USA,37,2021,2.0,E,1.0,Barrack A,2021 Sep 14 12:00:00 AM,B,1.0,,A,1.0,International Importation,2021-09-14,257.0,37,1,1.0,0.0,1,1,0,3,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_37.21_5,True,True,True,True,True,MVs/Wisconsin.USA/37.21/5,OK326899,OP314502,SAMN30498182,USA,37,2021,7.0,E,1.0,Barrack A,2021 Sep 16 12:00:00 AM,B,1.0,,A,1.0,International Importation,2021-09-16,259.0,37,1,1.0,0.0,1,1,0,3,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_37.21_6,True,True,,True,False,MVs/Wisconsin.USA/37.21/6,OK326900,,,USA,37,2021,6.0,E,1.0,Barrack A,2021 Sep 15 12:00:00 AM,B,1.0,,,1.0,International Importation,2021-09-15,258.0,37,1,1.0,0.0,1,1,-1,3,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_38.21,True,True,True,True,True,MVs/Wisconsin.USA/38.21,OK493289,OP314503,SAMN30498183,USA,38,2021,15.0,E,1.0,Barrack A,2021 Sep 28 12:00:00 AM,B,1.0,,,1.0,US-Acquired,2021-09-28,271.0,39,1,0.0,1.0,1,1,-1,3,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_10,True,True,True,True,True,MVs/Wisconsin.USA/39.21/10,OK493292,OP314512,SAMN30498193,USA,39,2021,18.0,F,2.0,Barrack A,2021 Sep 30 12:00:00 AM,B,1.0,2.0,C,1.0,US-Acquired,2021-09-30,273.0,39,1,0.0,1.0,1,1,2,4,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_14,True,True,True,True,True,MVs/Wisconsin.USA/39.21/14,OP642550,OP314516,SAMN30498197,USA,39,2021,21.0,F,2.0,Barrack A,2021 Oct 01 12:00:00 AM,B,1.0,,C,1.0,US-Acquired,2021-10-01,274.0,39,1,0.0,1.0,1,1,2,4,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_15,True,True,True,True,True,MVs/Wisconsin.USA/39.21/15,OP642551,OP314517,SAMN30498198,USA,39,2021,20.0,F,2.0,Barrack A,2021 Sep 30 12:00:00 AM,B,1.0,2.0,C,1.0,US-Acquired,2021-09-30,273.0,39,1,0.0,1.0,1,1,2,4,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_2,True,True,True,True,True,MVs/Wisconsin.USA/39.21/2,OK493283,OP314505,SAMN30498185,USA,39,2021,9.0,F,2.0,Barrack A,2021 Sep 27 12:00:00 AM,B,1.0,,C,1.0,US-Acquired,2021-09-27,270.0,39,1,0.0,1.0,1,1,2,4,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_3,True,True,True,True,True,MVs/Wisconsin.USA/39.21/3,OK493284,OP314506,SAMN30498186,USA,39,2021,10.0,F,2.0,Barrack A,2021 Sep 27 12:00:00 AM,B,1.0,2.0,C,1.0,US-Acquired,2021-09-27,270.0,39,1,0.0,1.0,1,1,2,4,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_8_1,True,True,True,True,True,MVs/Wisconsin.USA/39.21/8/1,OK493290,OP314511,SAMN30498191,USA,39,2021,16.0,G,3.0,Barrack A,2021 Sep 28 12:00:00 AM,B,1.0,,C,1.0,US-Acquired,2021-09-28,271.0,39,1,0.0,1.0,1,1,2,5,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_4,True,True,True,True,True,MVs/Wisconsin.USA/39.21/4,OK493285,OP314507,SAMN30498187,USA,39,2021,11.0,M,4.0,Barrack A,2021 Sep 24 12:00:00 AM,B,1.0,3.0,A,1.0,US-Acquired,2021-09-24,267.0,38,1,0.0,1.0,1,1,0,11,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_5,True,True,True,True,True,MVs/Wisconsin.USA/39.21/5,OK493286,OP314508,SAMN30498188,USA,39,2021,12.0,M,4.0,Barrack A,2021 Sep 24 12:00:00 AM,B,1.0,3.0,A,1.0,US-Acquired,2021-09-24,267.0,38,1,0.0,1.0,1,1,0,11,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_6,True,True,True,True,True,MVs/Wisconsin.USA/39.21/6,OK493287,OP314509,SAMN30498189,USA,39,2021,13.0,M,4.0,Barrack A,2021 Sep 24 12:00:00 AM,B,1.0,3.0,A,1.0,US-Acquired,2021-09-24,267.0,38,1,0.0,1.0,1,1,0,11,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_7,True,True,True,True,True,MVs/Wisconsin.USA/39.21/7,OK493288,OP314510,SAMN30498190,USA,39,2021,14.0,M,4.0,Barrack A,2021 Sep 27 12:00:00 AM,B,1.0,,A,1.0,US-Acquired,2021-09-27,270.0,39,1,0.0,1.0,1,1,0,11,1.0,0.0,0.0,1
+MVs_Wisconsin.USA_37.21_2,True,True,True,True,True,MVs/Wisconsin.USA/37.21/2,OK326896,OP314499,SAMN30498179,USA,37,2021,3.0,E,1.0,Barrack B,2021 Sep 14 12:00:00 AM,B,1.0,,A,1.0,International Importation,2021-09-14,257.0,37,1,1.0,0.0,1,1,0,3,0.0,1.0,0.0,1
+MVs_Wisconsin.USA_39.21,True,True,True,True,True,MVs/Wisconsin.USA/39.21,OK493282,OP314504,SAMN30498184,USA,39,2021,8.0,L,,Barrack B,2021 Sep 23 12:00:00 AM,B,1.0,,A,1.0,US-Acquired,2021-09-23,266.0,38,1,0.0,1.0,1,1,0,10,0.0,1.0,0.0,1
+MVs_Wisconsin.USA_35.21,True,True,True,True,True,MVs/Wisconsin.USA/35.21,OK067202,OP314497,SAMN30498177,USA,35,2021,1.0,G,3.0,,2021 Sep 04 12:00:00 AM,B,1.0,,D,1.0,International Importation,2021-09-04,247.0,35,1,1.0,0.0,1,1,3,5,0.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_12,True,True,True,True,True,MVs/Wisconsin.USA/39.21/12,OP642548,OP314514,SAMN30498195,USA,39,2021,17.0,B,,,2021 Sep 27 12:00:00 AM,B,1.0,,A,1.0,US-Acquired,2021-09-27,270.0,39,1,0.0,1.0,1,1,0,1,0.0,0.0,0.0,1
+MVs_Wisconsin.USA_39.21_13,True,True,True,True,True,MVs/Wisconsin.USA/39.21/13,OP642549,OP314515,SAMN30498196,USA,39,2021,22.0,T,,,2021 Sep 29 12:00:00 AM,B,1.0,,C,1.0,US-Acquired,2021-09-29,272.0,39,1,0.0,1.0,1,1,2,18,0.0,0.0,0.0,1
+MVs_Wisconsin.USA_37.21_4,True,True,True,True,True,MVs/Wisconsin.USA/37.21/4,OK326898,OP314501,SAMN30498181,USA,37,2021,4.0,G,3.0,,2021 Sep 15 12:00:00 AM,B,1.0,,D,1.0,US-Acquired,2021-09-15,258.0,37,1,0.0,1.0,1,1,3,5,0.0,0.0,0.0,1
+MVs_California.USA_50.19__B3,False,True,,True,True,MVs/California.USA/50.19/[B3],,,,USA,50,2019,,,,,,,,,,1.0,,,,,1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Virginia.USA_35.21_4,True,True,True,True,True,MVs/Virginia.USA/35.21/4,OK493278,OP314479,SAMN30498159,USA,35,2021,23.0,O,7.0,,2021 Sep 16 12:00:00 AM,C,1.0,5.0,D,1.0,International Importation,2021-09-16,259.0,37,1,1.0,0.0,2,1,3,13,0.0,0.0,0.0,1
+MVs_Virginia.USA_35.21_5,True,True,True,True,True,MVs/Virginia.USA/35.21/5,OK493279,OP314480,SAMN30498160,USA,35,2021,32.0,O,7.0,,2021 Sep 16 12:00:00 AM,C,1.0,5.0,D,1.0,International Importation,2021-09-16,259.0,37,1,1.0,0.0,2,1,3,13,0.0,0.0,0.0,1
+MVs_Virginia.USA_35.21_6,True,True,True,True,True,MVs/Virginia.USA/35.21/6,OK493281,OP314481,SAMN30498161,USA,35,2021,27.0,O,7.0,,2021 Sep 16 12:00:00 AM,C,1.0,5.0,D,1.0,International Importation,2021-09-16,259.0,37,1,1.0,0.0,2,1,3,13,0.0,0.0,0.0,1
+MVs_Virginia.USA_36.21,True,True,True,True,True,MVs/Virginia.USA/36.21,OK493269,OP314482,SAMN30498162,USA,36,2021,31.0,O,7.0,,2021 Sep 08 12:00:00 AM,C,1.0,5.0,D,1.0,International Importation,2021-09-08,251.0,36,1,1.0,0.0,2,1,3,13,0.0,0.0,0.0,1
+MVs_Virginia.USA_37.21,True,True,True,True,True,MVs/Virginia.USA/37.21,OK423784,OP314486,SAMN30498166,USA,37,2021,33.0,O,7.0,,2021 Sep 12 12:00:00 AM,C,1.0,,D,1.0,International Importation,2021-09-12,255.0,36,1,1.0,0.0,2,1,3,13,0.0,0.0,0.0,1
+MVs_Virginia.USA_36.21_2,True,True,True,True,True,MVs/Virginia.USA/36.21/2,OK493270,OP314483,SAMN30498163,USA,36,2021,25.0,P,,,2021 Sep 02 12:00:00 AM,C,1.0,,D,1.0,International Importation,2021-09-02,245.0,35,1,1.0,0.0,2,1,3,14,0.0,0.0,0.0,1
+MVs_Virginia.USA_36.21_4,True,True,True,True,True,MVs/Virginia.USA/36.21/4,OK493272,OP314485,SAMN30498165,USA,36,2021,29.0,Q,,,2021 Sep 14 12:00:00 AM,C,3.0,,E,1.0,International Importation,2021-09-14,257.0,37,1,1.0,0.0,2,3,4,15,0.0,0.0,0.0,1
+MVs_Virginia.USA_36.21_5,True,True,,True,False,MVs/Virginia.USA/36.21/5,OK493273,,,USA,36,2021,30.0,R,,,2021 Sep 07 12:00:00 AM,C,2.0,,,1.0,International Importation,2021-09-07,250.0,36,1,1.0,0.0,2,2,-1,16,0.0,0.0,0.0,1
+MVs_Virginia.USA_37.21_2,True,True,True,True,True,MVs/Virginia.USA/37.21/2,OK493280,OP314487,SAMN30498167,USA,37,2021,28.0,R,,,2021 Sep 18 12:00:00 AM,C,2.0,,B,1.0,International Importation,2021-09-18,261.0,37,1,1.0,0.0,2,2,1,16,0.0,0.0,0.0,1
+MVs_NewMexico.USA_38.21,True,True,True,True,True,MVs/NewMexico.USA/38.21,OK326901,OP314477,SAMN30498157,USA,38,2021,45.0,S,,,2021 Sep 16 12:00:00 AM,D,1.0,,C,1.0,International Importation,2021-09-16,259.0,37,1,1.0,0.0,3,1,2,17,0.0,0.0,0.0,1
+MVs_Dartford.GBR_2.14__B3,False,,,True,True,MVs/Dartford.GBR/2.14/[B3],,,,GBR,2,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Virginia.USA_35.21,True,True,True,True,True,MVs/Virginia.USA/35.21,OK493275,OP314478,SAMN30498158,USA,35,2021,24.0,W,,,2021 Sep 07 12:00:00 AM,C,2.0,,B,1.0,International Importation,2021-09-07,250.0,36,1,1.0,0.0,2,2,1,20,0.0,0.0,0.0,1
+MVs_Virginia.USA_40.21_3,True,True,True,True,True,MVs/Virginia.USA/40.21/3,OL744259,OP314495,SAMN30498175,USA,40,2021,40.0,J,,,2021 Oct 07 12:00:00 AM,E,2.0,,B,1.0,US-Acquired,2021-10-07,280.0,40,1,0.0,1.0,4,2,1,8,0.0,0.0,0.0,1
+MVs_Luton.GBR_4.14__B3,False,,,True,True,MVs/Luton.GBR/4.14/[B3],,,,GBR,4,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Virginia.USA_39.21_2,True,True,True,True,True,MVs/Virginia.USA/39.21/2,OL744255,OP314490,SAMN30498170,USA,39,2021,41.0,C,,Bay C,2021 Oct 11 12:00:00 AM,E,2.0,,B,1.0,US-Acquired,2021-10-11,284.0,41,1,0.0,1.0,4,2,1,2,0.0,0.0,1.0,1
+MVs_Virginia.USA_39.21_4,True,True,True,True,True,MVs/Virginia.USA/39.21/4,OL744261,OP314492,SAMN30498172,USA,39,2021,39.0,H,,Bay C,2021 Sep 30 12:00:00 AM,E,2.0,,B,1.0,US-Acquired,2021-09-30,273.0,39,1,0.0,1.0,4,2,1,6,0.0,0.0,1.0,1
+MVs_Virginia.USA_41.21,True,True,True,True,True,MVs/Virginia.USA/41.21,OL744260,OP314496,SAMN30498176,USA,41,2021,42.0,I,,Bay C,2021 Oct 15 12:00:00 AM,E,2.0,,B,1.0,US-Acquired,2021-10-15,288.0,41,1,0.0,1.0,4,2,1,7,0.0,0.0,1.0,1
+MVs_Virginia.USA_40.21,True,True,True,True,True,MVs/Virginia.USA/40.21,OL744256,OP314493,SAMN30498173,USA,40,2021,43.0,N,,Bay C,2021 Oct 15 12:00:00 AM,E,1.0,,D,1.0,US-Acquired,2021-10-15,288.0,41,1,0.0,1.0,4,1,3,12,0.0,0.0,1.0,1
+MVs_Padova.ITA_13.17_2_B3,False,,,True,True,MVs/Padova.ITA/13.17/2[B3],,,,ITA,13,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Virginia.USA_38.21,True,True,True,True,True,MVs/Virginia.USA/38.21,OP589191,OP314488,SAMN30498168,USA,38,2021,36.0,A,,,2021 Sep 30 12:00:00 AM,E,1.0,,D,1.0,US-Acquired,2021-09-30,273.0,39,1,0.0,1.0,4,1,3,0,0.0,0.0,0.0,1
+MVs_Virginia.USA_39.21,True,True,True,True,True,MVs/Virginia.USA/39.21,OL744254,OP314489,SAMN30498169,USA,39,2021,35.0,K,,,2021 Oct 01 12:00:00 AM,E,1.0,,A,1.0,US-Acquired,2021-10-01,274.0,39,1,0.0,1.0,4,1,0,9,0.0,0.0,0.0,1
+MVs_Virginia.USA_40.21_2,True,True,True,True,True,MVs/Virginia.USA/40.21/2,OL744258,OP314494,SAMN30498174,USA,40,2021,38.0,,,,2021 Oct 03 12:00:00 AM,E,2.0,,B,1.0,US-Acquired,2021-10-03,276.0,39,1,0.0,1.0,4,2,1,-1,0.0,0.0,0.0,1
+MVs_Virginia.USA_39.21_3,True,True,True,True,True,MVs/Virginia.USA/39.21/3,OL744257,OP314491,SAMN30498171,USA,39,2021,37.0,O,7.0,,2021 Oct 03 12:00:00 AM,E,1.0,,D,1.0,US-Acquired,2021-10-03,276.0,39,1,0.0,1.0,4,1,3,13,0.0,0.0,0.0,1
+MVi_Calais.FRA_01.16_B3,False,,,True,True,MVi/Calais.FRA/01.16[B3],,,,FRA,1,2016,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVi_Manchester.GBR_31.13__B3,False,,,True,True,MVi/Manchester.GBR/31.13/[B3],,,,GBR,31,2013,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Alabama.USA_13.14__B3,False,,,True,True,MVs/Alabama.USA/13.14/[B3],,,,USA,13,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_05.14__B3,False,,,True,True,MVs/California.USA/05.14/[B3],,,,USA,5,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_08.14_3__B3,False,,,True,True,MVs/California.USA/08.14/3/[B3],,,,USA,8,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_1.19__B3,False,,,True,True,MVs/California.USA/1.19/[B3],,,,USA,1,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_12.19__B3,False,,,True,True,MVs/California.USA/12.19/[B3],,,,USA,12,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_12.19_2_B3,False,,,True,True,MVs/California.USA/12.19/2[B3],,,,USA,12,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_12.19_3_B3,False,,,True,True,MVs/California.USA/12.19/3[B3],,,,USA,12,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_13.19__B3,False,,,True,True,MVs/California.USA/13.19/[B3],,,,USA,13,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_13.19_3_B3,False,,,True,True,MVs/California.USA/13.19/3[B3],,,,USA,13,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_13.19_4_B3,False,,,True,True,MVs/California.USA/13.19/4[B3],,,,USA,13,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_13.19_5_B3,False,,,True,True,MVs/California.USA/13.19/5[B3],,,,USA,13,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_14.19__B3,False,,,True,True,MVs/California.USA/14.19/[B3],,,,USA,14,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_14.19_2_B3,False,,,True,True,MVs/California.USA/14.19/2[B3],,,,USA,14,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_15.19__B3,False,,,True,True,MVs/California.USA/15.19/[B3],,,,USA,15,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_16.19_3_B3,False,,,True,True,MVs/California.USA/16.19/3[B3],,,,USA,16,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_16.19_4_B3,False,,,True,True,MVs/California.USA/16.19/4[B3],,,,USA,16,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_16.19_7_B3,False,,,True,True,MVs/California.USA/16.19/7[B3],,,,USA,16,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_16.19_8_B3,False,,,True,True,MVs/California.USA/16.19/8[B3],,,,USA,16,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_16.19_9_B3,False,,,True,True,MVs/California.USA/16.19/9[B3],,,,USA,16,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_17.19__B3,False,,,True,True,MVs/California.USA/17.19/[B3],,,,USA,17,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_17.19_2_B3,False,,,True,True,MVs/California.USA/17.19/2[B3],,,,USA,17,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_18.19_4_B3,False,,,True,True,MVs/California.USA/18.19/4[B3],,,,USA,18,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_20.19__B3,False,,,True,True,MVs/California.USA/20.19/[B3],,,,USA,20,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_20.19_2_B3,False,,,True,True,MVs/California.USA/20.19/2[B3],,,,USA,20,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_22.19__B3,False,,,True,True,MVs/California.USA/22.19/[B3],,,,USA,22,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_22.19_3_B3,False,,,True,True,MVs/California.USA/22.19/3[B3],,,,USA,22,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_32.19__B3,False,,,True,True,MVs/California.USA/32.19/[B3],,,,USA,32,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_34.19__B3,False,,,True,True,MVs/California.USA/34.19/[B3],,,,USA,34,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_41.19__B3,False,,,True,True,MVs/California.USA/41.19/[B3],,,,USA,41,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_43.19__B3,False,,,True,True,MVs/California.USA/43.19/[B3],,,,USA,43,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_43.19_2_B3,False,,,True,True,MVs/California.USA/43.19/2[B3],,,,USA,43,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_7.19__B3,False,,,True,True,MVs/California.USA/7.19/[B3],,,,USA,7,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_9.19__B3,False,,,True,True,MVs/California.USA/9.19/[B3],,,,USA,9,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_9.19_2_B3,False,,,True,True,MVs/California.USA/9.19/2[B3],,,,USA,9,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_California.USA_9.19_3_B3,False,,,True,True,MVs/California.USA/9.19/3[B3],,,,USA,9,2019,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_London.GBR_3.14__B3,False,,,True,True,MVs/London.GBR/3.14/[B3],,,,GBR,3,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_London.GBR_3.14_2__B3,False,,,True,True,MVs/London.GBR/3.14/2/[B3],,,,GBR,3,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_London.GBR_3.14_3__B3,False,,,True,True,MVs/London.GBR/3.14/3/[B3],,,,GBR,3,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_London.GBR_4.14_2__B3,False,,,True,True,MVs/London.GBR/4.14/2/[B3],,,,GBR,4,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_London.GBR_41.13__B3,False,,,True,True,MVs/London.GBR/41.13/[B3],,,,GBR,41,2013,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Manchester.GBR_7.12_2_B3,False,,,True,True,MVs/Manchester.GBR/7.12/2[B3],,,,GBR,7,2012,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_NewcastleuponTyne.GBR_35.13__B3,False,,,True,True,MVs/NewcastleuponTyne.GBR/35.13/[B3],,,,GBR,35,2013,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_NewcastleuponTyne.GBR_9.14__B3,False,,,True,True,MVs/NewcastleuponTyne.GBR/9.14/[B3],,,,GBR,9,2014,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_11.17_1_B3,False,,,True,True,MVs/Padova.ITA/11.17/1[B3],,,,ITA,11,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_12.17_1_B3,False,,,True,True,MVs/Padova.ITA/12.17/1[B3],,,,ITA,12,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_13.17_1_B3,False,,,True,True,MVs/Padova.ITA/13.17/1[B3],,,,ITA,13,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_14.17_1_B3,False,,,True,True,MVs/Padova.ITA/14.17/1[B3],,,,ITA,14,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_14.17_2_B3,False,,,True,True,MVs/Padova.ITA/14.17/2[B3],,,,ITA,14,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_14.17_3_B3,False,,,True,True,MVs/Padova.ITA/14.17/3[B3],,,,ITA,14,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_14.17_4_B3,False,,,True,True,MVs/Padova.ITA/14.17/4[B3],,,,ITA,14,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_14.17_5_B3,False,,,True,True,MVs/Padova.ITA/14.17/5[B3],,,,ITA,14,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_14.17_7_B3,False,,,True,True,MVs/Padova.ITA/14.17/7[B3],,,,ITA,14,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_15.17_1_B3,False,,,True,True,MVs/Padova.ITA/15.17/1[B3],,,,ITA,15,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_15.17_2_B3,False,,,True,True,MVs/Padova.ITA/15.17/2[B3],,,,ITA,15,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_16.17_1_B3,False,,,True,True,MVs/Padova.ITA/16.17/1[B3],,,,ITA,16,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_16.17_2_B3,False,,,True,True,MVs/Padova.ITA/16.17/2[B3],,,,ITA,16,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_16.17_3_B3,False,,,True,True,MVs/Padova.ITA/16.17/3[B3],,,,ITA,16,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_16.17_4_B3,False,,,True,True,MVs/Padova.ITA/16.17/4[B3],,,,ITA,16,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_16.17_5_B3,False,,,True,True,MVs/Padova.ITA/16.17/5[B3],,,,ITA,16,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_16.17_6_B3,False,,,True,True,MVs/Padova.ITA/16.17/6[B3],,,,ITA,16,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_17.17_3_B3,False,,,True,True,MVs/Padova.ITA/17.17/3[B3],,,,ITA,17,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_19.17_1_B3,False,,,True,True,MVs/Padova.ITA/19.17/1[B3],,,,ITA,19,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_19.17_2_B3,False,,,True,True,MVs/Padova.ITA/19.17/2[B3],,,,ITA,19,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_20.17_1_B3,False,,,True,True,MVs/Padova.ITA/20.17/1[B3],,,,ITA,20,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_21.17_1_B3,False,,,True,True,MVs/Padova.ITA/21.17/1[B3],,,,ITA,21,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_21.17_2_B3,False,,,True,True,MVs/Padova.ITA/21.17/2[B3],,,,ITA,21,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0
+MVs_Padova.ITA_24.17_1_B3,False,,,True,True,MVs/Padova.ITA/24.17/1[B3],,,,ITA,24,2017,,,,,,,,,,,,,,,-1,0.0,0.0,-1,-1,-1,-1,0.0,0.0,0.0,0

@@ -1,0 +1,144 @@
+{
+  "model": "BiomedCLIP ViT-B/16 (frozen) + MLP head",
+  "dataset": "MSLD v2.0 (755 original images, 6 classes)",
+  "cv_strategy": "5-fold cross-validation (official MSLD folds)",
+  "overall_accuracy": 0.8351648351648352,
+  "overall_macro_f1": 0.8341189056289487,
+  "overall_macro_auc": 0.9512786458144236,
+  "per_class_auc": {
+    "Mpox": 0.9010209205020921,
+    "Chickenpox": 0.8469387755102041,
+    "Measles": 0.9946107784431137,
+    "Cowpox": 0.9846287451150674,
+    "HFMD": 0.9827019546791212,
+    "Healthy": 0.9977707006369427
+  },
+  "confusion_matrix": [
+    [
+      95,
+      15,
+      3,
+      7,
+      5,
+      0
+    ],
+    [
+      12,
+      27,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      29,
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      0,
+      0,
+      30,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      3,
+      0,
+      75,
+      2
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      48
+    ]
+  ],
+  "class_names": [
+    "Mpox",
+    "Chickenpox",
+    "Measles",
+    "Cowpox",
+    "HFMD",
+    "Healthy"
+  ],
+  "fold_results": [
+    {
+      "fold": 1,
+      "accuracy": 0.8108108108108109,
+      "macro_f1": 0.8079220193824656,
+      "macro_auc": 0.9824858359184874,
+      "n_test": 74,
+      "auc_Mpox": 0.9527186761229315,
+      "auc_Chickenpox": 0.9709401709401708,
+      "auc_Measles": 0.9926470588235294,
+      "auc_Cowpox": 0.9850746268656716,
+      "auc_HFMD": 0.9935344827586207,
+      "auc_Healthy": 1.0
+    },
+    {
+      "fold": 2,
+      "accuracy": 0.7926829268292683,
+      "macro_f1": 0.8076867569470528,
+      "macro_auc": 0.9301379295783577,
+      "n_test": 82,
+      "auc_Mpox": 0.8336495888678052,
+      "auc_Chickenpox": 0.765685019206146,
+      "auc_Measles": 1.0,
+      "auc_Cowpox": 0.9935897435897436,
+      "auc_HFMD": 0.9879032258064516,
+      "auc_Healthy": 1.0
+    },
+    {
+      "fold": 3,
+      "accuracy": 0.796875,
+      "macro_f1": 0.8163419913419913,
+      "macro_auc": 0.9710324681339136,
+      "n_test": 64,
+      "auc_Mpox": 0.920995670995671,
+      "auc_Chickenpox": 0.9281609195402298,
+      "auc_Measles": 1.0,
+      "auc_Cowpox": 1.0,
+      "auc_HFMD": 0.98046875,
+      "auc_Healthy": 0.9965694682675815
+    },
+    {
+      "fold": 4,
+      "accuracy": 0.8641975308641975,
+      "macro_f1": 0.8765564128026888,
+      "macro_auc": 0.978004410057787,
+      "n_test": 81,
+      "auc_Mpox": 0.9423868312757201,
+      "auc_Chickenpox": 0.9799382716049383,
+      "auc_Measles": 1.0,
+      "auc_Cowpox": 0.9457013574660633,
+      "auc_HFMD": 1.0,
+      "auc_Healthy": 1.0
+    },
+    {
+      "fold": 5,
+      "accuracy": 0.9206349206349206,
+      "macro_f1": 0.9225656064365743,
+      "macro_auc": 0.9825685854723661,
+      "n_test": 63,
+      "auc_Mpox": 0.9666666666666667,
+      "auc_Chickenpox": 0.9515306122448979,
+      "auc_Measles": 0.9941520467836258,
+      "auc_Cowpox": 0.9974489795918366,
+      "auc_HFMD": 0.9875,
+      "auc_Healthy": 0.9981132075471698
+    }
+  ],
+  "n_total_test": 364,
+  "simulated": false,
+  "runtime_seconds": 1642.8326320648193
+}

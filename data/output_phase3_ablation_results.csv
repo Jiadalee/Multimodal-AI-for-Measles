@@ -1,0 +1,8 @@
+combination,modalities,n_features,AUC_ROC_mean,AUC_ROC_std,AUC_PR_mean,F1_mean
+G+I,Genomic + Imaging,17,0.9844,0.0099,0.9898,0.9625
+G+E+I,Genomic + Epi/Env + Imaging,20,0.9842,0.0095,0.9899,0.9621
+G,Genomic,9,0.9828,0.0117,0.9885,0.9624
+G+E,Genomic + Epi/Env,12,0.9823,0.0107,0.9881,0.9613
+E,Epi/Env,3,0.5,0.0,0.6246,0.4617
+I,Imaging,8,0.5,0.0,0.6246,0.7689
+E+I,Epi/Env + Imaging,11,0.4991,0.0018,0.6242,0.6152

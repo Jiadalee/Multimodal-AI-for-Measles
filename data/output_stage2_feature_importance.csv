@@ -1,0 +1,13 @@
+feature,importance
+google_trends_roll4,0.4022992
+air_passengers_m,0.11711902
+year_trend,0.10714986
+google_trends_lag1,0.098977804
+google_trends_measles,0.09888638
+week_sin,0.08010989
+week_cos,0.058362357
+nat_outbreak_prev_yr,0.037095465
+is_outbreak_year,0.0
+below_herd_immunity,0.0
+mmr_coverage_pct,0.0
+below_herd_immunity_mmr,0.0

@@ -1,0 +1,11 @@
+dataset,source,class,n_images,expert_verified,license,skin_tone_labels
+MSLD_v2.0,Kaggle joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20,Mpox,457,True,CC BY-NC 4.0,True
+MSLD_v2.0,Kaggle joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20,Chickenpox,299,True,CC BY-NC 4.0,True
+MSLD_v2.0,Kaggle joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20,Measles,223,True,CC BY-NC 4.0,True
+MSLD_v2.0,Kaggle joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20,Cowpox,106,True,CC BY-NC 4.0,True
+MSLD_v2.0,Kaggle joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20,HFMD,106,True,CC BY-NC 4.0,True
+MSLD_v2.0,Kaggle joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20,Healthy,251,True,CC BY-NC 4.0,True
+MSID,Kaggle dipuiucse/monkeypoxskinimagedataset,Monkeypox,200,False,CC BY 4.0,False
+MSID,Kaggle dipuiucse/monkeypoxskinimagedataset,Chickenpox,200,False,CC BY 4.0,False
+MSID,Kaggle dipuiucse/monkeypoxskinimagedataset,Measles,200,False,CC BY 4.0,False
+MSID,Kaggle dipuiucse/monkeypoxskinimagedataset,Normal,200,False,CC BY 4.0,False

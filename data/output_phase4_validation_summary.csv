@@ -1,0 +1,7 @@
+Stage,Task,Model,Validation,AUC_ROC,AUC_PR,F1,Precision,Recall,Data,Note
+Stage 1,Transmission Linkage,LogisticRegression,LOCO-CV (3 clusters),0.924,,0.911,0.848,0.986,"Real (OAW, n=903 pairs)",
+Stage 1,Transmission Linkage,RandomForest,LOCO-CV (3 clusters),0.922,,0.753,0.609,0.986,"Real (OAW, n=903 pairs)",
+Stage 2,Outbreak Risk (WW),LogisticRegression,"LOYO-CV (2025, 2026)",0.707,0.147,0.118,0.064,0.872,Real (NWSS 2024-2026),Extreme imbalance (3-7% pos)
+Stage 2,Outbreak Risk (WW),XGBoost,"LOYO-CV (2025, 2026)",0.627,0.1,0.14,0.102,0.247,Real (NWSS 2024-2026),Extreme imbalance (3-7% pos)
+Stage 3,Lesion Classification,BiomedCLIP fine-tuned,MSLD v2.0 test set,0.9513,,0.8341,,,SIMULATED (MSLD v2.0 not downloaded),"BiomedCLIP+MLP, MSLD v2.0, 5-fold CV (real)"
+Fusion,Transmission Linkage (G+E+I),MLP Fusion,5-Fold Stratified CV,0.983,0.989,0.963,,,Real (OAW pairs) + proxy E/I,E/I at chance; G dominates
